@@ -1,0 +1,12 @@
+
+*.svn-base
+
+.svn/entries
+
+.svn/format
+
+.svn/wc.db
+
+assets/banner-772x250.fw.png
+
+assets/icon-256x256.fw.png
